@@ -1,17 +1,8 @@
-html {
-  margin: 1em;
+body {
+  font-family: 'Alegreya', serif;
+  font-size: 2em;
 }
 
-li {
-  padding: .75em;
-}
-
-a {
-  color: blue;
-  font-weight: bold;
-}
-
-.poem-title {
-  font-weight: bold;
-  font-style: italic;
+h1 {
+  font-weight: 800;
 }
